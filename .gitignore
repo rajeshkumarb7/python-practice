@@ -1,3 +1,9 @@
 utils/*
 *.info.txt
 *.info.txt
+
+# Ignore a specific file
+info.txt
+
+# Ignore a specific folder
+my_folder/
