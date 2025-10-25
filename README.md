@@ -11,64 +11,64 @@ The exercises and concepts are inspired by the LinkedIn Learning course: Level U
 
 🛠 Topics Covered
 
-Python basics: variables, data types, loops, conditionals
+    Python basics: variables, data types, loops, conditionals
 
-Functions and recursion
+    Functions and recursion
 
-Lists, dictionaries, tuples, and sets
+    Lists, dictionaries, tuples, and sets
 
-String and list manipulation
+    String and list manipulation
 
-File handling
+    File handling
 
-Modules and libraries
+    Modules and libraries
 
-Object-oriented programming (OOP)
+    Object-oriented programming (OOP)
 
-Time, random, and other built-in modules
+    Time, random, and other built-in modules
 
-Problem-solving exercises and mini projects
+    Problem-solving exercises and mini projects
 
 ⚡ Example Projects
 
-Timing Game: Test your sense of time using time.perf_counter()
+    Timing Game: Test your sense of time using time.perf_counter()
 
-Nested List Search: Find elements in nested lists recursively
+    Nested List Search: Find elements in nested lists recursively
 
-String Sorting: Sort strings with case-insensitive methods
+    String Sorting: Sort strings with case-insensitive methods
 
-Other Python exercises: Small functions and scripts to practice concepts
+    Other Python exercises: Small functions and scripts to practice concepts
 
-(More projects and scripts will be added continuously as I learn.)
+    (More projects and scripts will be added continuously as I learn.)
 
 🚀 How to Use
 
-Clone the repository:
+    Clone the repository:
 
-git clone https://github.com/yourusername/python-practice.git
-
-
-Navigate into the project folder:
-
-cd python-practice
+        git clone https://github.com/rajeshkumarb7/python-practice.git
 
 
-Run any Python script:
+    Navigate into the project folder:
 
-python filename.py
+        cd python-practice
+
+
+    Run any Python script:
+
+        python filename.py
 
 📖 Learning Resources
 
-LinkedIn Learning - Level Up Python
+        LinkedIn Learning - Level Up Python
 
-Official Python documentation: https://docs.python.org/3/
+        Official Python documentation: https://docs.python.org/3/
 
-Community resources: Stack Overflow, Python forums, and tutorials
+        Community resources: Stack Overflow, Python forums, and tutorials
 
 💡 Notes
 
-This repository is for learning and practice purposes only.
+        This repository is for learning and practice purposes only.
 
-I update it regularly as I learn new concepts.
+        I update it regularly as I learn new concepts.
 
-Contributions, suggestions, and improvements are welcome!
+        Contributions, suggestions, and improvements are welcome!
